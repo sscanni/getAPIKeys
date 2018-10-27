@@ -1,4 +1,4 @@
-from getAPIKeys import getAPIKey
+from getAPIKeyPackage.getAPIKeys import getAPIKey
 
 print ("------Test getAPIKeys Function------")
 print
